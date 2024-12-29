@@ -9,5 +9,4 @@
 
 ## 🛠️ Upcoming Resources on GitHub
 
-- 📘 API Documentation
 - 📝 Patient Form Templates
